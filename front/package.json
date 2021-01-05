@@ -19,7 +19,7 @@
   "dependencies": {
     "aframe-react": "^4.4.0",
     "aos": "^2.3.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.7.2",
     "bootstrap": "^4.4.1",
     "css-loader": "^3.4.2",
